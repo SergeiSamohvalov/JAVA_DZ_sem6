@@ -5,7 +5,7 @@ public class Main {
 
         NB n1 = new NB (2, 128, "Белый");
         NB n2 = new NB ( 4, 256, "Серый");
-        NB n3 = new NB ( 32, 512, "Серый");
+        NB n3 = new NB ( 32, 512, "Черный");
         NB n4 = new NB (16, 256,  "Черный");
        
         System.out.println("Выберите функцию:");
